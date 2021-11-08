@@ -1,0 +1,10 @@
+什么叫惊喜[旺柴]
+周一清晨的算法题就是！
+
+本周第一套题可以开始刷啦[OK]
+1.从尾到头打印链表    
+https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof 
+2.返回倒数第 k 个节点 https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/ 
+3.环形链表        https://leetcode-cn.com/problems/linked-list-cycle/
+4.K 个一组翻转链表        https://leetcode-cn.com/problems/reverse-nodes-in-k-group
+5.只出现一次的数字        https://leetcode-cn.com/problems/WGki4K

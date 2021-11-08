@@ -1,0 +1,15 @@
+第二周第2套算法题来啦~依旧限时两天！
+[好的]话不多说开始吧！
+剑指 Offer II 024. 反转链表
+https://leetcode-cn.com/problems/UHnkqh
+面试题 02.07. 链表相交
+https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci
+61. 旋转链表
+https://leetcode-cn.com/problems/rotate-list/
+703. 数据流中的第 K 大元素
+https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/
+226. 翻转二叉树
+https://leetcode-cn.com/problems/invert-binary-tree
+
+这次咱们直接LeetCode刷啦
+收到小小回复个1，就开始刷题8⃣！

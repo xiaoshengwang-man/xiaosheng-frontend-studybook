@@ -1,0 +1,9 @@
+[嘿哈]周末弯道超车~冲就完事！
+
+本周的第三套题提前给到咱们啦，前两套做完就开刷吧
+周一记得分享你的产出哦[奸笑]
+1. 平衡二叉树 https://leetcode-cn.com/problems/balanced-binary-tree
+2. 二叉树的深度 https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof
+3. 搜索插入位置 https://leetcode-cn.com/problems/search-insert-position/
+4. 罗马数字转整数 https://leetcode-cn.com/problems/roman-to-integer
+5. 反转字符串 https://leetcode-cn.com/problems/reverse-string/
