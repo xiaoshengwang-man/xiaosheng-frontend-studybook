@@ -1,24 +1,10 @@
-// 门徒
 /**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
+ * @param {character[]} s
+ * @return {void} Do not return anything, modify s in-place instead.
  */
-/**
- * @param {ListNode} head
- * @return {ListNode}
- */
-var reverseList = function (head) {
-  if (head === null) return head;
-  let pre = null;
-  let cur = head;
-  let p = head.next;
-  while (cur) {
-    cur.next = pre;
-    pre = cur;
-    (cur = p) && (p = p.next)
+var reverseString = function (s) {
+  for (let i = 0; i < s.length / 2; i++) {
+    [s[i], s[s.length - i - 1]] = [s[s.length - i - 1], s[i]]
   }
-  return pre;
+  return s
 };

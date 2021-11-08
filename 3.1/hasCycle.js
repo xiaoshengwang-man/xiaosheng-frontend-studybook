@@ -5,17 +5,17 @@
  *     this.next = null;
  * }
  */
+
 /**
  * @param {ListNode} head
- * @return {number[]}
+ * @return {boolean}
  */
-
-var reversePrint = function (head) {
-  var arr = [],
-    p = head;
-  while (p) {
-    arr.push(p.val)
+var hasCycle = function (head) {
+  if (head === null || head.next === null) return false;
+  var p = q = head;
+  do {
     p = p.next
-  }
-  return arr.reverse()
+    q = q.next.next
+  } while (q && q.next && p !== q);
+  return p === q
 };
