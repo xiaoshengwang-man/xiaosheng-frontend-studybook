@@ -1,0 +1,7 @@
+周五来活啦！
+五道算法，LeetCode开整
+1、分隔链表        https://leetcode-cn.com/problems/partition-list
+2、 设计循环队列        https://leetcode-cn.com/problems/design-circular-queue
+3、设计循环双端队列        https://leetcode-cn.com/problems/design-circular-deque
+4、设计前中后队列        https://leetcode-cn.com/problems/design-front-middle-back-queue
+5、最近的请求次数        https://leetcode-cn.com/problems/number-of-recent-calls
