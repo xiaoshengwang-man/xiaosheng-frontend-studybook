@@ -1,0 +1,7 @@
+周三呐周三，因算法题而变得不平凡[旺柴]
+第十四套：
+1、化栈为队 https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci 
+2、球比赛 https://leetcode-cn.com/problems/baseball-game 
+3、较含退格的字符串 https://leetcode-cn.com/problems/backspace-string-compare 
+4、证栈序列 https://leetcode-cn.com/problems/validate-stack-sequences 
+5、除最外层的括号 https://leetcode-cn.com/problems/remove-outermost-parentheses

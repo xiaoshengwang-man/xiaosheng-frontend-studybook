@@ -1,0 +1,7 @@
+怎么不找我要算法题[旺柴]我很难过
+第十三套：
+1、面试题 第 k 个数        https://leetcode-cn.com/problems/get-kth-magic-number-lcci
+2、 亲密字符串        https://leetcode-cn.com/problems/buddy-strings
+3、 柠檬水找零        https://leetcode-cn.com/problems/lemonade-change
+4、 煎饼排序        https://leetcode-cn.com/problems/pancake-sorting
+5、 任务调度器        https://leetcode-cn.com/problems/task-scheduler
