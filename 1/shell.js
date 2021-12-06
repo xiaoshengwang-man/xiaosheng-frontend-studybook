@@ -23,7 +23,7 @@
 // }
 //希尔排序第一个版本，gap取长度一半依次递减
 function shell_sort_v1(arr) {
-  for(let gap = Math.ceil(arr.length/2);gap >=1;gap /= 2){
+  for(let gap = Math.floor(arr.length/2);gap >=1;gap = Math.floor(gap / 2)){
     for(let i = gap; i <arr.length; i++){
       for (let j = i; j > gap-1 && arr[j] < arr[j-gap]; j-=gap) {
         let temp = arr[j];
