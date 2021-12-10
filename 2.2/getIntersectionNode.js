@@ -49,3 +49,14 @@ var getIntersectionNode = function (headA, headB) {
     return swich(headA, headB)
   }
 }
+
+var getIntersectionNode = function(headA, headB) {
+  if(headA === null || headA === null) return null;
+  let pA = headA, pB = headB;
+  while(pA !== pB){
+      pA = pA.next ? pA.next : headB;
+      pB = pB.next ? pB.next : headA;
+
+  }
+  return pA;
+};
