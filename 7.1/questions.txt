@@ -1,0 +1,7 @@
+周一周一[旺柴]精神飞起
+第十六套题强势出场：
+1、面试题 ：环路检测 https://leetcode-cn.com/problems/linked-list-cycle-lcci
+2、设计链表 https://leetcode-cn.com/problems/design-linked-list
+3、剑指 Offer： 删除链表的节点 https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof
+4、分隔链表 https://leetcode-cn.com/problems/split-linked-list-in-parts
+5、面试题：分割链表 https://leetcode-cn.com/problems/partition-list-lcci
