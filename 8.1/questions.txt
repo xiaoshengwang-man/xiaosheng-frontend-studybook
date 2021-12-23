@@ -1,0 +1,6 @@
+周一周一，算法飞起！
+1、N 叉树的前序遍历： https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal 
+2、翻转二叉树 ：https://leetcode-cn.com/problems/invert-binary-tree 
+3、剑指 Offer：从上到下打印二叉数II https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof 
+4、二叉树的层序遍历 II： https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii 
+5、 二叉树的锯齿形层序遍历： https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal
