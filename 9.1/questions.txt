@@ -1,0 +1,8 @@
+周一先来点轻松的，本套题难度适中~~
+祝顺利完成！！
+
+1、 积压订单中的订单总数 https://leetcode-cn.com/problems/number-of-orders-in-the-backlog 
+2、丑数 II https://leetcode-cn.com/problems/ugly-number-ii 
+3、超级丑数 https://leetcode-cn.com/problems/super-ugly-number 
+4、移除石子的最大得分 https://leetcode-cn.com/problems/maximum-score-from-removing-stones 
+5、 二叉树的最大深度 https://leetcode-cn.com/problems/maximum-depth-of-binary-tree
