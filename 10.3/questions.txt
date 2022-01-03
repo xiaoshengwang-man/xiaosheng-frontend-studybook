@@ -1,0 +1,5 @@
+1、冗余连接 II https://leetcode-cn.com/problems/redundant-connection-ii 
+2、滑动窗口最大值 https://leetcode-cn.com/problems/sliding-window-maximum 
+3、用 Rand7() 实现 Rand10() https://leetcode-cn.com/problems/implement-rand10-using-rand7 
+4、盛最多水的容器 https://leetcode-cn.com/problems/container-with-most-water 
+5、字符串解码 https://leetcode-cn.com/problems/decode-string

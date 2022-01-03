@@ -1,0 +1,5 @@
+1、 最长连续序列 https://leetcode-cn.com/problems/longest-consecutive-sequence
+2、 移除最多的同行或同列石头 https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column
+3、交换字符串中的元素 https://leetcode-cn.com/problems/smallest-string-with-swaps
+4、账户合并 https://leetcode-cn.com/problems/accounts-merge
+5、 情侣牵手 https://leetcode-cn.com/problems/couples-holding-hands
