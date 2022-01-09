@@ -1,0 +1,7 @@
+上题！！！！
+周五一套题[呲牙]周末笑嘻嘻
+1、 排序数组 https://leetcode-cn.com/problems/sort-an-array 
+2、剑指 Offer 51. 数组中的逆序对 https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof 
+3、 排序链表 https://leetcode-cn.com/problems/sort-list 
+4、 两棵二叉搜索树中的所有元素 https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees 
+5、面试题 04.08. 首个共同祖先 https://leetcode-cn.com/problems/first-common-ancestor-lcci
