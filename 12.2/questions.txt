@@ -1,0 +1,9 @@
+算法题更新！！！！解析视频目前也在同步更新哦～
+为了方便学习，算法解析和青训营视频合并放在《1V1大厂私教训练营课程01期》里面啦！
+
+1、最大子序和 https://leetcode-cn.com/problems/maximum-subarray 
+2、 合并区间 https://leetcode-cn.com/problems/merge-intervals 
+3、 删除被覆盖区间 https://leetcode-cn.com/problems/remove-covered-intervals 
+4、递增子序列 https://leetcode-cn.com/problems/increasing-subsequences 
+5、面试题： 求和路径 https://leetcode-cn.com/problems/paths-with-sum-lcci 
+@JinYP
