@@ -1,0 +1,6 @@
+永远刷算法[奸笑]永远热泪盈眶
+1、 课程表 https://leetcode-cn.com/problems/course-schedule/ 
+2、课程表 II https://leetcode-cn.com/problems/course-schedule-ii/ 
+3、数组的相对排序 https://leetcode-cn.com/problems/relative-sort-array/ 
+4、 最大间距 https://leetcode-cn.com/problems/maximum-gap/ 
+5、 H 指数 https://leetcode-cn.com/problems/h-index/

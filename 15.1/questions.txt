@@ -1,0 +1,8 @@
+[福]开工大吉！！！！
+金三银四越来越近，做好弹药储备！随时奋起一搏
+
+1、设计哈希集合 https://leetcode-cn.com/problems/design-hashset/ 
+2、设计哈希映射 https://leetcode-cn.com/problems/design-hashmap/ 
+3、面试题  LRU 缓存 https://leetcode-cn.com/problems/lru-cache-lcci/ 
+4、 TinyURL 的加密与解密 https://leetcode-cn.com/problems/encode-and-decode-tinyurl/ 
+5、 重复的DNA序列 https://leetcode-cn.com/problems/repeated-dna-sequences/
